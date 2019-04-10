@@ -1,0 +1,22 @@
+{
+  "name": "cesiumjs-bower",
+  "description": "A RAW bower package for CesiumJS",
+  "main":  [
+    "dist/Cesium/Cesium.js",
+    "dist/Cesium/Widgets/widgets.css"
+  ],
+  "keywords": [
+    "cesium",
+    "cesiumjs"
+  ],
+  "authors": [
+    "Analytical Graphics Inc.",
+	"Alessio Damato <alessio@alessiodamato.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://cesiumjs.org",
+  "private": true,
+  "ignore": [
+    "cesium"
+  ]
+}
