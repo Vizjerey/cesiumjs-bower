@@ -15,8 +15,11 @@
   ],
   "license": "MIT",
   "homepage": "http://cesiumjs.org",
-  "private": true,
   "ignore": [
-    "cesium"
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ]
 }
