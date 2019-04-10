@@ -1,4 +1,4 @@
-# Cesium-bower
+# CesiumJS-bower
 ### A [bower](http://bower.io) package for [Cesiumjs](http://cesiumjs.org/)
 
 Analytical Graphics, Inc. does not offer a bower package for the 3d mapping library Cesium.
